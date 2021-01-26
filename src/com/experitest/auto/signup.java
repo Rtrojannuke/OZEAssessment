@@ -1,4 +1,4 @@
-//package <set your test package>;
+package com.experitest.auto;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
