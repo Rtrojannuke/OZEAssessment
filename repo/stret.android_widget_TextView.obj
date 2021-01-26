@@ -1,0 +1,6 @@
+#Mon Jan 25 22:36:02 WAT 2021
+expression=//*[@class\='android.widget.TextView']
+by=xpath
+context=NONINSTRUMENTED
+json={"dumpElementType"\:"NONINSTRUMENTED","x"\:722,"y"\:1484,"width"\:340,"height"\:440,"onScreen"\:true,"uniqueKeys"\:"contentDescription,text,content-desc","package"\:"com.sec.android.app.launcher","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.TextView","clickable"\:"true","content-desc"\:"Play Store","index"\:"5","focusable"\:"true","enabled"\:"true","longClickable"\:"true","password"\:"false","top"\:"true","contentDescription"\:"Play Store","focused"\:"false","bounds"\:"[722,1484][1062,1924]","long-clickable"\:"true","text"\:"Play Store","class"\:"android.widget.TextView","scrollable"\:"false","selected"\:"false"}
+page=stret

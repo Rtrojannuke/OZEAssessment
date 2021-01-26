@@ -1,0 +1,6 @@
+#Mon Jan 25 22:43:30 WAT 2021
+expression=//*[@resource-id\='com.android.vending\:id/0_resource_name_obfuscated']
+by=xpath
+context=NONINSTRUMENTED
+json={"id"\:"0_resource_name_obfuscated","dumpElementType"\:"NONINSTRUMENTED","x"\:320,"y"\:169,"width"\:624,"height"\:79,"onScreen"\:true,"uniqueKeys"\:"text","package"\:"com.android.vending","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.TextView","clickable"\:"true","index"\:"1","focusable"\:"false","enabled"\:"true","resource-id"\:"com.android.vending\:id/0_resource_name_obfuscated","longClickable"\:"false","password"\:"false","top"\:"true","bounds"\:"[320,169][944,248]","long-clickable"\:"false","text"\:"Search for apps \\u0026 games","class"\:"android.widget.TextView","scrollable"\:"false","selected"\:"false"}
+page=ps
